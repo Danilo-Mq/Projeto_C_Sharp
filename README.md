@@ -1,5 +1,6 @@
 
 # Olá, eu sou o Danilo! 👋
+Nesse repositório você irá encontrar uma breve explicação sobre o meu projeto e como ele funciona, caso queira saber mais, entre em meu portifólio localizado logo abaixo e se aprofunda mais !
 
 # Projeto Sales Web MVC
 
